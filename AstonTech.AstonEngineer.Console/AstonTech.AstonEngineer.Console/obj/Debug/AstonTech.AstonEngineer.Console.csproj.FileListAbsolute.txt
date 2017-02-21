@@ -1,0 +1,18 @@
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\bin\Debug\AstonTech.AstonEngineer.Console.exe.config
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\bin\Debug\AstonTech.AstonEngineer.Console.exe
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\bin\Debug\AstonTech.AstonEngineer.Console.pdb
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\obj\Debug\AstonTech.AstonEngineer.Console.exe
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\obj\Debug\AstonTech.AstonEngineer.Console.pdb
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\obj\Debug\AstonTech.AstonEngineer.Console.csprojResolveAssemblyReference.cache
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\bin\Debug\AstonTech.AstonEngineer.BO.dll
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\bin\Debug\AstonTech.AstonEngineer.BO.pdb
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\bin\Debug\ClassLibrary1.dll
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\bin\Debug\ClassLibrary1.pdb
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\bin\Debug\AstonTech.AstonEngineer.DAL.dll
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\bin\Debug\AstonTech.AstonEngineer.DAL.pdb
+C:\Users\Jay Forte\Dropbox\Web Development\AstonTech Personal\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\bin\Debug\AstonTech.AstonEngineer.Console.exe.config
+C:\Users\Jay Forte\Dropbox\Web Development\AstonTech Personal\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\obj\Debug\AstonTech.AstonEngineer.Console.exe
+C:\Users\Jay Forte\Dropbox\Web Development\AstonTech Personal\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\obj\Debug\AstonTech.AstonEngineer.Console.pdb
+C:\github\c#-portfolio\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\bin\Debug\AstonTech.AstonEngineer.Console.exe.config
+C:\github\c#-portfolio\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\obj\Debug\AstonTech.AstonEngineer.Console.exe
+C:\github\c#-portfolio\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.Console\obj\Debug\AstonTech.AstonEngineer.Console.pdb

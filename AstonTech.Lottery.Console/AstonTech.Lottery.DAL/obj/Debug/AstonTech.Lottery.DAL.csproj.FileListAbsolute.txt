@@ -1,0 +1,7 @@
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.DAL\bin\Debug\AstonTech.Lottery.DAL.dll
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.DAL\bin\Debug\AstonTech.Lottery.DAL.pdb
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.DAL\obj\Debug\AstonTech.Lottery.DAL.csprojResolveAssemblyReference.cache
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.DAL\obj\Debug\AstonTech.Lottery.DAL.dll
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.DAL\obj\Debug\AstonTech.Lottery.DAL.pdb
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.DAL\bin\Debug\AstonTech.Lottery.BO.dll
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.DAL\bin\Debug\AstonTech.Lottery.BO.pdb

@@ -1,0 +1,11 @@
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.Console\bin\Debug\AstonTech.Lottery.Console.exe.config
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.Console\bin\Debug\AstonTech.Lottery.Console.exe
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.Console\bin\Debug\AstonTech.Lottery.Console.pdb
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.Console\obj\Debug\AstonTech.Lottery.Console.exe
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.Console\obj\Debug\AstonTech.Lottery.Console.pdb
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.Console\obj\Debug\AstonTech.Lottery.Console.csprojResolveAssemblyReference.cache
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.Console\bin\Debug\AstonTech.Lottery.BO.dll
+C:\AstonTech\projects\AstonTech.Lottery.Console\AstonTech.Lottery.Console\bin\Debug\AstonTech.Lottery.BO.pdb
+C:\Users\Jay Forte\Dropbox\Web Development\AstonTech Personal\projects\AstonTech.Lottery.Console\AstonTech.Lottery.Console\bin\Debug\AstonTech.Lottery.Console.exe.config
+C:\Users\Jay Forte\Dropbox\Web Development\AstonTech Personal\projects\AstonTech.Lottery.Console\AstonTech.Lottery.Console\obj\Debug\AstonTech.Lottery.Console.exe
+C:\Users\Jay Forte\Dropbox\Web Development\AstonTech Personal\projects\AstonTech.Lottery.Console\AstonTech.Lottery.Console\obj\Debug\AstonTech.Lottery.Console.pdb

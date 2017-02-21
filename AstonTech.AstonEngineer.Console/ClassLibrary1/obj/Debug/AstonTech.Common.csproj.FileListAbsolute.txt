@@ -1,0 +1,5 @@
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\ClassLibrary1\obj\Debug\AstonTech.Common.csprojResolveAssemblyReference.cache
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

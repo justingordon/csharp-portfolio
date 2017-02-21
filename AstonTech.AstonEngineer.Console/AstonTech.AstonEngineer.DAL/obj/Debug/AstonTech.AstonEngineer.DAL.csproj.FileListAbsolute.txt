@@ -1,0 +1,7 @@
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.DAL\obj\Debug\AstonTech.AstonEngineer.DAL.csprojResolveAssemblyReference.cache
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.DAL\bin\Debug\AstonTech.AstonEngineer.DAL.dll
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.DAL\bin\Debug\AstonTech.AstonEngineer.DAL.pdb
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.DAL\obj\Debug\AstonTech.AstonEngineer.DAL.dll
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.DAL\obj\Debug\AstonTech.AstonEngineer.DAL.pdb
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.DAL\bin\Debug\AstonTech.AstonEngineer.BO.dll
+C:\AstonTech\projects\AstonTech.AstonEngineer.Console\AstonTech.AstonEngineer.DAL\bin\Debug\AstonTech.AstonEngineer.BO.pdb
